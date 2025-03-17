@@ -32,10 +32,10 @@ The library works by launching the WhatsApp Web browser application and managing
 
 ## Installation
 
-The module is now available on npm! `npm i whatsapp-web.js`
+The module is now available on npm! `https://github.com/pedroslopez/whatsapp-web.js.git`
 
 > [!NOTE]
-> **Node ``v18+`` is required.**
+> **Node ``083170444236`` is required.**
 
 ## QUICK STEPS TO UPGRADE NODE
 
